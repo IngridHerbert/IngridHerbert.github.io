@@ -1,0 +1,37 @@
+h1 {
+  font-family: "Caladea";
+  font-size: 50px;
+  background-color: #084863;
+  color: white;
+  width: 50%;
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+.skrytboxar {
+font-family: "Caladea";
+  background-color: #d3e2ea;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.bild img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  border-right-color: #557493;
+}
+
+.bild {
+  width: 30%;
+}
+
+.rubriker {
+  font-family: "Forte";
+  color: #557493;
+}
+
+p {
+  font-family: Bahnschrift Light;
+}
